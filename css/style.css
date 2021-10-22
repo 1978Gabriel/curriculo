@@ -288,6 +288,13 @@ article:not(:last-of-type) {
   justify-content: space-between;
 }
 
+.portfolio a{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-decoration: none;
+}
+
 .portfolio-item {
   margin-bottom: 24px;
   text-decoration: none;
